@@ -1,0 +1,41 @@
+.header-text {
+    text-align: center;
+    margin: auto;
+    color: #ADEFD1FF;
+    font-style: bold;
+    font-family: "Palatino", "URW Palladio L", serif;
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+}
+
+.desc{
+    text-align: center;
+    margin: auto;
+    font-style: oblique;
+    color: #ADEFD1FF;
+}
+
+body {
+    background-color: #00203FFF;
+}
+
+.navbar-nav {
+    padding-left: 5%;
+}
+
+.input{
+    width: 35%;
+}
+
+.invisible{
+    visibility: hidden;
+}
+
+.visible{
+    visibility: visible;
+}
